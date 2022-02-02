@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Santana! 👋
 ##
 - 🔭 Hoje trabalho com Front-End! 
-- 🌱 Atualmente estou aprendendo Redux
+- 🌱 Buscando aprender cada vez mais a como reutilizar componentes no React!
 - 💬 Qualquer dúvida, fique à vontade para entrar em contato e me perguntar!
 - ⚡ Fun fact: Eu sou o Batman.
 
