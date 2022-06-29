@@ -1,9 +1,9 @@
 ### Olá, eu sou o Matheus Santana! 👋
 ##
-- 🔭 Hoje trabalho com Front-End! 
-- 🌱 Buscando aprender cada vez mais a como reutilizar componentes no React!
+- 🔭 Sou um estudante de desenvolvimento de games!
+- 🌱 Atualmente aprendendo C#, Unity e Inglês.
 - 💬 Qualquer dúvida, fique à vontade para entrar em contato e me perguntar!
-- ⚡ Fun fact: Eu sou o Batman.
+- ⚡ Opinião polêmica: Homelander não aguentaria 2 minutos contra o Omni-man.
 <div align="center">
   <a href="https://github.com/MattSantana">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MattSantana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -11,6 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg">
   <img align="center" alt="Matt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
