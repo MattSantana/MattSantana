@@ -18,7 +18,7 @@
   <img align="center" alt="Matt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Matt-pic" height="130" style="border-radius:50px;" src="https://c.tenor.com/E_Vb-uVd4oMAAAAM/naruto-rocklee.gif">
-  <img align="right" alt="Marina-Chibi" src="https://postimg.cc/cKxh7PYS" >
+  <img align="right" height="130" style="border-radius:50px;" alt="Marina-Chibi" src="https://postimg.cc/cKxh7PYS" >
 </div>
   
 ##
