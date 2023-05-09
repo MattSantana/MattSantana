@@ -1,9 +1,9 @@
 ### Hello There! I'm Matheus Santana, welcome to my Github Profile! 👋
 ##
-- 🔭 i'm a Unity Developer for Robokick Technology!
+- 🔭 I'm a Unity Developer for Robokick Technology!
 - 🌱 I'm currently studying about Design Patters on Unity.
 - 💬 Feel free to contact and ask my anything that you want!
-- ⚡ Controversial Opinion: Homelander would doesn't handle 2 minutes in a fight against Omni-man.
+- ⚡ Controversial Opinion: Homelander wouldn't handle 2 minutes in a fight against Omni-man.
 <div align="center">
   <a href="https://github.com/MattSantana">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MattSantana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
