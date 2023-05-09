@@ -12,8 +12,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img align="center" alt="Matt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" height="130" style="border-radius:50px;" alt="Marina-Chibi" src="https://sm.ign.com/t/ign_br/screenshot/default/pokemon-i-choose-you-br-1510098874516-1280w-1535034107830-uu_q6mt.1200.jpg" >
 </div>
   
