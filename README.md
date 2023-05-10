@@ -2,7 +2,7 @@
 ##
 - 🔭 I'm a Unity Developer for Robokick Technology!
 - 🌱 I'm currently studying about Design Patters on Unity.
-- 💬 Feel free to contact and ask my anything that you want!
+- 💬 Feel free to contact and ask me anything that you want!
 - ⚡ Controversial Opinion: Homelander wouldn't handle 2 minutes in a fight against Omni-man.
 <div align="center">
   <a href="https://github.com/MattSantana">
