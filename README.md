@@ -1,7 +1,7 @@
 ### Hello There! I'm Matheus Santana, welcome to my Github Profile! 👋
 ##
-- 🔭 I'm a Unity Developer for Robokick Technology!
-- 🌱 I'm currently studying about Design Patters on Unity.
+- 🔭 I'm a Gameplay Programmer by Rainbow Ring Studio!
+- 🌱 I'm cuntiously studiyng about game developing, and specializing as a Programmer in Unreal Engine.
 - 💬 Feel free to contact and ask me anything that you want!
 - ⚡ Controversial Opinion: Homelander wouldn't handle 2 minutes in a fight against Omni-man.
 <div align="center">
