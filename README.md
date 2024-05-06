@@ -11,7 +11,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unreal/unreal-original.svg">
   <img align="right" height="130" style="border-radius:50px;" alt="Marina-Chibi" src="https://sm.ign.com/t/ign_br/screenshot/default/pokemon-i-choose-you-br-1510098874516-1280w-1535034107830-uu_q6mt.1200.jpg" >
 </div>
   
@@ -22,4 +24,4 @@
   <a href="https://www.linkedin.com/in/santanamatt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
- ![Snake animation](https://github.com/MattSantana/MattSantana/blob/output/github-contribution-grid-snake.svg)
+ //![Snake animation](https://github.com/MattSantana/MattSantana/blob/output/github-contribution-grid-snake.svg)
