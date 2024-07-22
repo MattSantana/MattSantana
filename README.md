@@ -4,6 +4,12 @@
 - 🌱 I'm cuntiously studiyng about game developing, and specializing as a Programmer in Unreal Engine.
 - 💬 Feel free to contact and ask me anything that you want!
 - ⚡ Controversial Opinion: Homelander wouldn't handle 2 minutes in a fight against Omni-man.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Matheus+Santana+%3C3;I'm a+Game Developer!!!;Welcome+to+my+ Github+profile!" alt="Title"></img>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/MattSantana">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MattSantana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
