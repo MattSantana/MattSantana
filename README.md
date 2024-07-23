@@ -1,35 +1,52 @@
-### Hello There! I'm Matheus Santana, welcome to my Github Profile! 👋
-##
-- 🔭 I'm a Gameplay Programmer by Rainbow Ring Studio!
-- 🌱 I'm cuntiously studiyng about game developing, and specializing as a Programmer in Unreal Engine.
-- 💬 Feel free to contact and ask me anything that you want!
-- ⚡ Controversial Opinion: Homelander wouldn't handle 2 minutes in a fight against Omni-man.
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MattSantana?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MattSantana?style=social"> &nbsp;&nbsp; <img alt="MattSantana | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Matheus+Santana+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&color=%2338C2FF&size=100&center=true&vCenter=true&height=150&width=2800&lines=Heyyy!!+What's+up?!;I'm+Matheus+Santana+and+i'm+a+Game+Developer!!!+%3C3;It's+a+pleasure+to+meet+you!;Welcome+to+my+Github+profile!" alt="Title"></img>
 </div>
 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages, tools and platforms i work with
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 	![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
+
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-  <a href="https://github.com/MattSantana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MattSantana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSantana&layout=compact&langs_count=7&theme=onedark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattSantana&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=MattSantana&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img align="center" alt="Matt-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
-  <img align="right" height="130" style="border-radius:50px;" alt="Marina-Chibi" src="https://sm.ign.com/t/ign_br/screenshot/default/pokemon-i-choose-you-br-1510098874516-1280w-1535034107830-uu_q6mt.1200.jpg" >
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattSantana&theme=algolia&background=0d1117&hide_border=true" />
 </div>
+
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="mailto:msantana.oliveira22@gmail.com" >
+    <img align="center" alt="MattSantana | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
+  </a> &nbsp;&nbsp;
   
-##
-  
-<div> 
-  <a href = "mailto:msantana.oliveira22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/santanamatt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/santanamatt//" target="_blank">
+    <img align="center" alt="MattSantana | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://mattsantana.itch.io/" target="_blank">
+    <img align="center" alt="MattSantana | Itch-Io" width="24px" src="https://cdn2.steamgriddb.com/icon/a72437afb97803a6acb5420ef8b8a90f.png" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://matunitydev.notion.site/Matheus-Santana-783d7399f93247ff864b58469051ba1f?pvs=74" target="_blank">
+    <img align="center" alt="MattSantana | Notion" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  </a> &nbsp;&nbsp;
+
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for visiting my profile! Have a nice day! :wink: <br/>
+  &copy; 2024 MS GameDev
 </div>
+
+
   
