@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MattSantana?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MattSantana?style=social"> &nbsp;&nbsp; <img alt="MattSantana | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&color=%2338C2FF&size=100&center=true&vCenter=true&height=150&width=2800&lines=Heyyy!!+What's+up?!;I'm+Matheus+Santana+and+i'm+a+Game+Developer!!!+%3C3;It's+a+pleasure+to+meet+you!;Welcome+to+my+Github+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&color=%2338C2FF&size=100&center=true&vCenter=true&height=150&width=2800&lines=Heyyy!!+What's+up?!;I'm+Matheus+Santana+and+i'm+a+Game+Dev!+%3C3;It's+a+pleasure+to+meet+you!;Welcome+to+my+Github+profile!" alt="Title"></img>
 </div>
 
 
