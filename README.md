@@ -37,8 +37,8 @@
     <img align="center" alt="MattSantana | Itch-Io" width="24px" src="https://cdn2.steamgriddb.com/icon/a72437afb97803a6acb5420ef8b8a90f.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://matunitydev.notion.site/Matheus-Santana-783d7399f93247ff864b58469051ba1f?pvs=74" target="_blank">
-    <img align="center" alt="MattSantana | Notion" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />
+  <a href="https://msgamedev-portfolio.netlify.app/" target="_blank">
+    <img align="center" alt="MattSantana | Portfolio" width="24px" src="https://cdn-icons-png.flaticon.com/512/5404/5404040.png" />
   </a> &nbsp;&nbsp;
 
 <p> 
