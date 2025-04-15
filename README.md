@@ -26,19 +26,19 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:msantana.oliveira22@gmail.com" >
-    <img align="center" alt="MattSantana | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
+    <img align="center" alt="MattSantana | Gmail" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/santanamatt//" target="_blank">
-    <img align="center" alt="MattSantana | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="MattSantana | Linkedin" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
   <a href="https://mattsantana.itch.io/" target="_blank">
-    <img align="center" alt="MattSantana | Itch-Io" width="24px" src="https://cdn2.steamgriddb.com/icon/a72437afb97803a6acb5420ef8b8a90f.png" />
+    <img align="center" alt="MattSantana | Itch-Io" width="31px" src="https://cdn2.steamgriddb.com/icon/a72437afb97803a6acb5420ef8b8a90f.png" />
   </a> &nbsp;&nbsp;
 
   <a href="https://msgamedev-portfolio.netlify.app/" target="_blank">
-    <img align="center" alt="MattSantana | Portfolio" width="24px" src="https://cdn-icons-png.flaticon.com/512/5404/5404040.png" />
+    <img align="center" alt="MattSantana | Portfolio" width="31px" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png" />
   </a> &nbsp;&nbsp;
 
 <p> 
