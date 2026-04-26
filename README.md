@@ -31,7 +31,7 @@ Building enterprise Mixed Reality solutions and games. Currently at **Transforma
 
 ### Contact
 
-[Portfolio](https://matheusdeoliveira.netlify.app) &nbsp;·&nbsp;
+[Portfolio](https://matheusoliveira-portfolio.netlify.app/) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/santanamatt) &nbsp;·&nbsp;
 [Itch.io](https://mattsantana.itch.io) &nbsp;·&nbsp;
 [msantana.oliveira22@gmail.com](mailto:msantana.oliveira22@gmail.com)
