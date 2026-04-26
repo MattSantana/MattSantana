@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MattSantana?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MattSantana?style=social">
 
 # Matheus de Oliveira
-**XR & Game Developer** · Unity · Unreal Engine · HoloLens 2 · PICO XR · AR Foundation
+**XR & Game Developer**
 
 Building enterprise Mixed Reality solutions and games. Currently at **TransformaTech Advisors** developing industrial MR applications for HoloLens 2 with MRTK3, and doing freelance XR work.
 
